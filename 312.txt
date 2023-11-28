@@ -1,0 +1,19 @@
+Napisz aplikacje na konsole, która losuje określoną ilość liczb i przypisuje do dynamicznej tablicy.
+Wyznacz sumę liczb, średnią liczb
+1.Podaj ile elementów losujemy np.10 - długość tablcy
+2.Wylosuj z zakresu od 0 do 100 10 liczb
+3.Oblicz sumę i średnią liczb
+
+Losowanie:
+	
+	6542675419 - 19 + 1
+	8726582570 - 70 + 1
+	8761874365 - 65 + 1
+	9561946327 - 27 + 1
+	1234567899 - 99 + 1
+
+	modulo % 100
+
+
+dokończ zadanie z lekcji.
+Zad 2 napisz program który dynamicznie przydziela (losuje) z zakrezu od 0 do 100 wartości znaków z tablicy ascii, znaki przypisz do tablicy oraz je wyświetl (Char)

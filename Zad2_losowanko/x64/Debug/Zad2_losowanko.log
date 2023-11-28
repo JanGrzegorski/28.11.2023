@@ -1,0 +1,5 @@
+﻿  Zad2_losowanko.cpp
+C:\Users\Programista\Desktop\28.11.2023\Zad2_losowanko\Zad2_losowanko.cpp(6,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Programista\Desktop\28.11.2023\Zad2_losowanko\Zad2_losowanko.cpp(21,76): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\Zad2_losowanko\Zad2_losowanko.cpp(21,76): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+  Zad2_losowanko.vcxproj -> C:\Users\Programista\Desktop\28.11.2023\Zad2_losowanko\x64\Debug\Zad2_losowanko.exe

@@ -1,0 +1,16 @@
+﻿  zad1.cpp
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(11,51): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int **" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(11,51): warning C4302: "typ rzutowania": obcięcie z "int **" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(12,10): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(12,10): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(13,10): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(13,10): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(14,10): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(14,10): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(15,10): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(15,10): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(16,10): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(16,10): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(22,11): warning C4311: "typ rzutowania": obcięcie wskaźnika z "int *" do "int"
+C:\Users\Programista\Desktop\28.11.2023\zad1\zad1.cpp(22,11): warning C4302: "typ rzutowania": obcięcie z "int *" do "int"
+  zad1.vcxproj -> C:\Users\Programista\Desktop\28.11.2023\zad1\x64\Debug\zad1.exe
